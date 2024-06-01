@@ -5,7 +5,7 @@
 
 
 ## Introduction:
-We have made LockFortress a one-stop solution for users' passwords. Firstly we provide the facility to the users to store and manage their passwords; unlike other password managers, we have OTP verification, wherein users have to verify their identity through an OTP to their registered mobile number. Another thing is that we are providing the user the docker image of our app, which the user can spin up on his premises or any cloud provider of his choice. This will protect him from any data leaks. Also, we are providing a password generator app; unlike the other apps present online that give entirely random passwords that are nearly impossible to remember, we will provide passwords based on various prompts that make it easy for the user to remember and hard for hackers to guess. We have achieved it through our homegrown algorithm. We also provide a password strength checker that gives suggestions based on your password. Lastly, we provide an interface for users to share password-protected documents with their friends securely.  
+Developed a one-stop solution for users' passwords. Firstly we provide the facility to the users to store and manage their passwords. Also, it is providing a password generator app; it will provide passwords based on various prompts that make it easy for the user to remember and hard for hackers to guess. It also provides a password strength checker that gives suggestions based on your password. Lastly, it provides an interface for users to share password-protected documents with their friends securely. 
 
   
 
@@ -19,8 +19,6 @@ We have made LockFortress a one-stop solution for users' passwords. Firstly we p
   3) MongoDB
   4) Express
   5) JSON web token
-  6) Firebase OTP authenticator
-  7) Docker
   
 
 
